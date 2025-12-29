@@ -1,8 +1,3 @@
----
-title: Tuto 1 – Player et déplacements
-description: Créer un personnage et le déplacer
----
-
 # Tuto 1 – Player et déplacements @tutorial
 
 ## Introduction @unplugged
