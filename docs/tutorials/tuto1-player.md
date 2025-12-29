@@ -1,3 +1,8 @@
+---
+title: Tuto 1 – Player et déplacements
+description: Créer un personnage et le déplacer
+---
+
 # Tuto 1 – Player et déplacements
 
 ## Introduction @unplugged
@@ -8,3 +13,4 @@ Crée un sprite Player et fais-le bouger avec les flèches.
 
 ## Bravo @unplugged
 Tu as réussi !
+
